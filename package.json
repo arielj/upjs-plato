@@ -58,5 +58,8 @@
   },
   "devDependencies": {
     "@types/eslint": "^8.37.0"
-  }
+  },
+  "browserslist": [
+    "node 10"
+  ]
 }
